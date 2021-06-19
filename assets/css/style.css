@@ -28,8 +28,8 @@ body{
     background: rgb(175, 177, 186);
     background: linear-gradient(
         0deg,
-        rgba(175, 177, 186)0%,
-        rgba(175, 177, 186)100%,
+        rgba(7, 9, 22,1)0%,
+        rgba(148, 154, 168,1)100%
     );
     background-repeat: no-repeat;
     background-size: cover;
